@@ -8,7 +8,7 @@ Veri Setinin İncelenmesi 🕵️‍♂️:
 
 Veri setindeki sütunlar, eksik değerler ve temel istatistikler.
 Veri Görselleştirme 📊:
-
+ 
 Özellikler arasındaki ilişkileri ve verinin dağılımını anlamak için scatter plot, violin plot ve pair plot kullanımı.
 Korelasyon Analizi 🔍:
 
